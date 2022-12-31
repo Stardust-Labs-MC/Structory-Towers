@@ -1,0 +1,25 @@
+{
+  "structures": [
+    {
+      "structure": "structory_towers:sacred_relic_temple",
+      "weight": 1
+    },
+    {
+      "structure": "structory_towers:ancient_temple",
+      "weight": 1
+    },
+    {
+      "structure": "structory_towers:mirage_outpost",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 287535234,
+    "frequency_reduction_method": "default",
+    "frequency": 0.5,
+    "spread_type": "triangular",
+    "spacing": 55,
+    "separation": 16
+  }
+}

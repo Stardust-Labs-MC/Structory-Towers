@@ -1,0 +1,13 @@
+{
+  "values": [
+    "plains",
+    "forest",
+    "flower_forest",
+    "swamp",
+    "meadow",
+    {
+      "id": "terralith:brushland",
+      "required": false
+    }
+  ]
+}

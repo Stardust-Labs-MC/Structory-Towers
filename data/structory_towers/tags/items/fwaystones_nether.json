@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "fwaystones:red_nether_brick_waystone",
+      "required": false
+    },
+    {
+      "id": "fwaystones:nether_brick_waystone",
+      "required": false
+    },
+    {
+      "id": "fwaystones:blackstone_brick_waystone",
+      "required": false
+    }
+  ]
+}
