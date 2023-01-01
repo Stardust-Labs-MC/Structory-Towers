@@ -5,10 +5,6 @@
       "required": false
     },
     {
-      "id": "fwaystones:red_desert_waystone",
-      "required": false
-    },
-    {
       "id": "fwaystones:waystone",
       "required": false
     },

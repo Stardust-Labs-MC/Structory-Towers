@@ -3,7 +3,7 @@
   "biomes": "#structory_towers:soul_sand_valleys",
   "step": "surface_structures",
   "spawn_overrides": {},
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "beard_box",
   "start_pool": "structory_towers:nether/strange_outpost",
   "size": 6,
   "start_height": {

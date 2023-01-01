@@ -3,7 +3,7 @@
   "biomes": "#structory_towers:shattered_biomes",
   "step": "surface_structures",
   "spawn_overrides": {},
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "beard_box",
   "start_pool": "structory_towers:warped_greatsword",
   "size": 2,
   "start_height": {

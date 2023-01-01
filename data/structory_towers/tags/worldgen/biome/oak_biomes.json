@@ -5,8 +5,18 @@
     "flower_forest",
     "swamp",
     "meadow",
+    "sunflower_plains",
+    "savanna",
     {
       "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
       "required": false
     }
   ]

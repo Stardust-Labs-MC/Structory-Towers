@@ -1,12 +1,12 @@
 {
   "structures": [
-    {
-      "structure": "structory_towers:engineer_tower",
+        {
+      "structure": "structory_towers:ancient_temple",
       "weight": 1
     },
     {
-      "structure": "structory_towers:pillager_lookout",
-      "weight": 2
+      "structure": "structory_towers:engineer_tower",
+      "weight": 1
     },
     {
       "structure": "structory_towers:farmer_outpost",
