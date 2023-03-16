@@ -160,7 +160,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 60,
-          "name": "structory_towers:farm_basic"
+          "name": "structory_towers:basic/farm_basic"
         },
         {
           "type": "minecraft:loot_table",

@@ -135,7 +135,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 60,
+          "weight": 5,
           "name": "minecraft:enchanting_table"
         },
         {

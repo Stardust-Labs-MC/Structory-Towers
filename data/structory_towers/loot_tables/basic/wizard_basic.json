@@ -239,11 +239,6 @@
           "name": "minecraft:ender_pearl"
         },
         {
-          "type": "minecraft:item",
-          "weight": 15,
-          "name": "minecraft:enchanting_table"
-        },
-        {
           "type": "minecraft:loot_table",
           "weight": 40,
           "name": "structory_towers:potions"
