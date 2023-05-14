@@ -1,9 +1,0 @@
-{
-  "values": [
-    "beach",
-    {
-      "id": "terralith:gravel_beach",
-      "required": false
-    }
-  ]
-}
