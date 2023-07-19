@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "fwaystones:desert_waystone",
+      "required": false
+    },
+    {
+      "id": "fwaystones:waystone",
+      "required": false
+    },
+    {
+      "id": "fwaystones:deepslate_brick_waystone",
+      "required": false
+    },
+    {
+      "id": "fwaystones:stone_brick_waystone",
+      "required": false
+    }
+  ]
+}
