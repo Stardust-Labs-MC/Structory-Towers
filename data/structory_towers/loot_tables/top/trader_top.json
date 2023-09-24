@@ -125,15 +125,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "structory_towers:waystone"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
           "name": "structory_towers:basic/trader_basic"
         }
       ]

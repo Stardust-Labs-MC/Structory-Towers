@@ -133,15 +133,6 @@
       ]
     },
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "structory_towers:waystone"
-        }
-      ]
-    },
-    {
       "rolls": {
         "min": 1,
         "max": 2

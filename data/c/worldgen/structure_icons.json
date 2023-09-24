@@ -1,0 +1,65 @@
+{
+    "structory_towers:ancient_temple": {
+        "item": "minecraft:deepslate_brick_wall"
+    },
+    "structory_towers:engineer_tower": {
+        "item": "minecraft:redstone_torch"
+    },
+    "structory_towers:farmer_outpost": {
+        "item": "minecraft:wheat"
+    },
+    "structory_towers:foraging_outpost": {
+        "item": "minecraft:dark_oak_fence"
+    },
+    "structory_towers:great_toadstool": {
+        "item": "minecraft:red_mushroom_block"
+    },
+    "structory_towers:lighthouse": {
+        "item": "minecraft:daylight_sensor"
+    },
+    "structory_towers:mirage_outpost": {
+        "item": "minecraft:red_sandstone_wall"
+    },
+    "structory_towers:nomad_outpost": {
+        "item": "minecraft:acacia_fence"
+    },
+    "structory_towers:ocean_pillar": {
+        "item": "minecraft:prismarine_wall"
+    },
+    "structory_towers:overgrown_mangrove": {
+        "item": "minecraft:mangrove_fence"
+    },
+    "structory_towers:pillager_lookout": {
+        "item": "minecraft:black_banner"
+    },
+    "structory_towers:quarter_outpost": {
+        "item": "minecraft:chain"
+    },
+    "structory_towers:sacred_relic_temple": {
+        "item": "minecraft:lantern"
+    },
+    "structory_towers:small_firetower": {
+        "item": "minecraft:fire_charge"
+    },
+    "structory_towers:taiga_outpost": {
+        "item": "minecraft:stone_brick_wall"
+    },
+    "structory_towers:warped_greatsword": {
+        "item": "minecraft:netherite_sword"
+    },
+    "structory_towers:wizard_tower": {
+        "item": "minecraft:enchanting_table"
+    },
+    "structory_towers:end/end_tower": {
+        "item": "minecraft:purpur_pillar"
+    },
+    "structory_towers:nether/fortress_tower": {
+        "item": "minecraft:nether_brick_wall"
+    },
+    "structory_towers:nether/strange_outpost": {
+        "item": "minecraft:polished_blackstone_wall"
+    },
+    "structory_towers:nether/warped_outpost": {
+        "item": "minecraft:warped_fence"
+    }
+}

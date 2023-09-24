@@ -236,15 +236,6 @@
           "chance": 0.6
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "structory_towers:waystone"
-        }
-      ]
     }
   ]
 }

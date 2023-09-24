@@ -168,15 +168,6 @@
           "name": "structory_towers:horse_equipment"
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "structory_towers:waystone"
-        }
-      ]
     }
   ]
 }

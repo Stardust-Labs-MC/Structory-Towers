@@ -1,0 +1,15 @@
+{
+    "name": "structory_towers:waystones/deepslate_brick_fwaystone",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "structory_towers:waystones/deepslate_brick_fwaystone",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

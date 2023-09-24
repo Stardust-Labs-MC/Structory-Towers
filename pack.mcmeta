@@ -1,6 +1,31 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"description": "Structory: Towers - a Structory Addon"
-	}
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            10,
+            18
+        ],
+        "description": [
+            {
+                "text": "Structory: Towers",
+                "color": "#28d3ab"
+            },
+            {
+                "text": "\nCreated by ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs",
+                "color": "#683edd"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": 18,
+                "directory": "1-20-2-overlay"
+            }
+        ]
+    }
 }
