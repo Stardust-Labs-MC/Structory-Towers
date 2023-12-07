@@ -145,7 +145,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionColor:5373696,display:{Name:'[{\"text\":\"Potion of Heroism\",\"italic\":false,\"color\":\"green\"}]'},CustomPotionEffects:[{Id:32,Duration:12000}]}"
+              "tag": "{CustomPotionColor:5373696,display:{Name:'[{\"text\":\"Potion of Heroism\",\"italic\":false,\"color\":\"green\"}]'},CustomPotionEffects:[{Id:32,Duration:12000}],custom_potion_effects:[{id:\"minecraft:hero_of_the_village\",duration:12000}]}"
             }
           ]
         },

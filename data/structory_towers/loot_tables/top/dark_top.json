@@ -134,7 +134,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionColor:2633262,display:{Name:'[{\"text\":\"Splash Potion of Darkness\",\"italic\":false,\"color\":\"dark_gray\"}]'},CustomPotionEffects:[{Id:33,Duration:400}]}"
+              "tag": "{CustomPotionColor:2633262,display:{Name:'[{\"text\":\"Splash Potion of Darkness\",\"italic\":false,\"color\":\"dark_gray\"}]'},CustomPotionEffects:[{Id:33,Duration:400}],custom_potion_effects:[{id:\"minecraft:darkness\",duration:400}]}"
             }
           ]
         },
